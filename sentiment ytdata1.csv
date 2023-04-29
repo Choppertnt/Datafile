@@ -1,0 +1,12 @@
+Sentiment,sum,score(%)
+positive,177,25
+joy,140,20
+neutral,127,18
+anticipation,74,11
+trust,71,10
+surprise,42,6
+sadness,29,4
+negative,15,2
+fear,13,2
+anger,9,1
+disgust,5,1
